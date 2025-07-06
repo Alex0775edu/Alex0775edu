@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2aD0OBQXr8n85HgHY70nrA&ust=1751907735863000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCR4ILbqI4DFQAAAAAdAAAAABAE)
+![logo](https://github.com/Alex0775edu/Alex0775edu/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
