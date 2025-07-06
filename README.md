@@ -1,4 +1,4 @@
-![logo](https://github.com/Alex0775edu/Alex0775ed/blob/main/ecead7ec-5a35-4775-ae66-e0236b6eb4fe.jpg)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2aD0OBQXr8n85HgHY70nrA&ust=1751907735863000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCR4ILbqI4DFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
