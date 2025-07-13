@@ -17,7 +17,7 @@
 <a href="https://twitter.com/@alexaditya0775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexaditya0775" height="30" width="40" /></a><br>
 <a href="https://instagram.com/@_alex_0775_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_alex_0775_" height="30" width="40" /></a><br>
 <a href="https://www.youtube.com/c/aditya0775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya0775" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/aditya-kumar-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-cse" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/aditya-kumar-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-cse" height="30" width="40" /></a> <br><br>
 <a href="https://fb.com/@_alex_0775_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@_alex_0775_" height="30" width="40" /></a><br>
 </p>
 
